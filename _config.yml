@@ -2,5 +2,6 @@ collections:
   portfolio:
 
 # System Settings
-url: "http://trdvelho.github.com/portfolio/"
+baseurl: "/portfolio/"
+url: "http://trdvelho.github.com/"
 #
